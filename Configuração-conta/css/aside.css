@@ -1,0 +1,25 @@
+#sub-menu {
+    margin-left: 500px;
+    margin-top: 96px;
+    width: 167px;
+    height: 90px;
+  }
+
+#settings_text {
+    margin-bottom: 50px;
+    font-weight: 900;
+    font-size: 32px;
+    color: #202142;
+  }
+
+.link_aside {
+    margin-bottom: 25px;
+    padding: 10px, 15px, 10px, 15px;
+  }
+
+#sub-menu :hover{
+    padding: 0.5em;
+    background-color: #FCFCFF;
+    border-radius: 5px;
+    border: 1px solid #EFEFFF;
+  }
